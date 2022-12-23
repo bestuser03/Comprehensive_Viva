@@ -1,3 +1,5 @@
+#replace some word with special symbol
+
 def replace_symbol(new, k):
     symbol = '@$%&*'
     for special in symbol:

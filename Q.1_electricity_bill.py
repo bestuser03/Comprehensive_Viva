@@ -1,3 +1,5 @@
+#electricity bill generator
+
 unit = float(input("Enter electricity meter measurement in unit: "))
 
 un = unit
